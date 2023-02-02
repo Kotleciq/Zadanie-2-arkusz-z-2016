@@ -1,0 +1,60 @@
+
+#baner{
+    background-color: #08826a;
+    height: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#lpanel{
+    float: left;
+    background-color: #e19880;
+    height: 550px;
+    width: 30%;
+}
+
+#rpanel{
+    float: right;
+    background-color: #9ac8bf;
+    height: 550px;
+    width: 70%;
+    text-align: center;
+}
+
+#footer{
+    background-color: #08826a;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    columns: white;
+    text-align: right;
+}
+
+a{
+    color: white;
+}
+
+img{
+    margin: 20px;
+    padding: 15px;
+    border: 2px dotted #e19880;
+}
+
+table{
+    margin: 20px;
+    border: 1px solid ;
+    width: 80%;
+}
+
+tr:hover{
+    background-color: green;
+    color: white;
+}
+
+th{
+    background-color: #e19880;
+    border: 1px solid;
+}
+
+td{
+    border: 1px solid;
+    text-align: right;
+}
